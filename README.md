@@ -4,7 +4,7 @@
     <h2>Sobre mim:</h2>
     <p>Sou apaixonado por surf e adoro praticar esportes, especialmente os radicais.</p>
     <p>Atualmente, estou no 4° período de Análise e Desenvolvimento de Sistemas (ADS) e também me especializando em Python para backend através de um curso na Softex. Como um entusiasta da cultura maker, tenho uma paixão especial por integrar hardware e software. Estou continuamente buscando aprofundar meu conhecimento em programação backend, com o objetivo de me tornar um desenvolvedor mais completo e versátil.</p>
-    <p>Sinta-se à vontade para entrar em contato comigo através do email higorluna.dev@gamil.com! Aguardo seu contato</p>
+    <p>Sinta-se à vontade para entrar em contato comigo através do email higorluna.dev@gamil.com. Aguardo seu contato!</p>
 </div>
 
 <div>
